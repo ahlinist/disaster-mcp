@@ -1,5 +1,0 @@
-[server]
-enableXsrfProtection = false
-headless = true
-# Enables /_stcore/script-health-check which runs the script and injects /mcp
-scriptHealthCheckEnabled = true
